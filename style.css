@@ -22,6 +22,9 @@ Tags: one-column, two-columns, three-columns, left-sidebar, right-sidebar, custo
   font-weight: normal;
   font-style: normal;
 }
+.widget-area,#footer-sidebar {
+background: #f2f2f2!important;
+}
 .footer-4 {
   background: #2b2d34;
   width: 100%;
