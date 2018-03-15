@@ -20,7 +20,7 @@
 						<div>&nbsp;</div>
 						<?php echo dynamic_sidebar("image-sidebar-footer");?>
 			        </div>
-					<div class="col-md-3 col-lg-2 pt-2">
+					<div class="col-md-3 col-lg-2 pt-2 offset-1">
 					  <?php echo dynamic_sidebar("first-footer-widget-area");?>
 					</div>
 					<div class="col-md-3 col-lg-2 pt-2">
