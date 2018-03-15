@@ -12,17 +12,6 @@ Text Domain: seller-child
 Tags: one-column, two-columns, three-columns, left-sidebar, right-sidebar, custom-background, custom-colors, custom-menu, featured-images, full-width-template, translation-ready, theme-options, threaded-comments, footer-widgets, custom-logo, blog, e-commerce
 */
 @font-face {
-  font-family: "KaushanScript-Regular";
-  src: url("./fonts/KaushanScript-Regular.eot"); /* IE9 Compat Modes */
-  src: url("./fonts/KaushanScript-Regular.eot?#iefix") format("embedded-opentype"), /* IE6-IE8 */
-    url("./fonts/KaushanScript-Regular.svg") format("svg"), /* Legacy iOS */
-    url("./fonts/KaushanScript-Regular.ttf") format("truetype"), /* Safari, Android, iOS */
-    url("./fonts/KaushanScript-Regular.woff") format("woff"), /* Modern Browsers */
-    url("./fonts/KaushanScript-Regular.woff2") format("woff2"); /* Modern Browsers */
-  font-weight: normal;
-  font-style: normal;
-}
-@font-face {
   font-family: "Lato-Regular";
   src: url("./fonts/Lato-Regular.eot"); /* IE9 Compat Modes */
   src: url("./fonts/Lato-Regular.eot?#iefix") format("embedded-opentype"), /* IE6-IE8 */
@@ -62,11 +51,11 @@ Tags: one-column, two-columns, three-columns, left-sidebar, right-sidebar, custo
       color: #59a0d7; }
   .footer-4 .copyright {
     color: #a0a0a0; }
-  .footer-4 .social li a {
+  .footer-4 .menu li a {
     background: none;
     color: #f7f7f8;
     border: none; }
-  .footer-4 .social li a:hover {
+  .footer-4 .menu li a:hover {
     color: #59a0d7; }
   @media screen and (max-width: 768px) {
     .footer-4 .nav-footer {
